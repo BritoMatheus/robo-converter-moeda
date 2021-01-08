@@ -1,0 +1,15 @@
+{
+  "name": "acessar-google",
+  "version": "1.0.0",
+  "description": "Teste de aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matheus Brito",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "readline-sync": "^1.4.10"
+  }
+}
